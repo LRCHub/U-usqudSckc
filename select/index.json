@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Isolation",
+  "base_artist": "Nothing's Carved In Stone",
+  "createdAt": "2026-03-05T14:00:58.841667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/01_Isolation_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/02_Isolation_New_Order.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/03_Isolation_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/04_Isolation_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chasing Kites - Isolation Live in Ödeshög",
+      "artist": "ionnalee feat. iamamiwhoami & Barbelle",
+      "has_synced": false,
+      "path": "select/05_Chasing_Kites_-_Isolation_Live_in_Ödeshög_ionnalee_feat._iamamiwhoami_&_Barbelle.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Isolation (BT 2012 Mix)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/06_Isolation_(BT_2012_Mix)_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/07_Isolation_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "Matthew Sweet",
+      "has_synced": false,
+      "path": "select/08_Isolation_Matthew_Sweet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Isolation - Live at Live 8, University of London Union",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/09_Isolation_-_Live_at_Live_8,_University_of_London_Union_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Isolation (Live at Live 8, University of London Union)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/10_Isolation_(Live_at_Live_8,_University_of_London_Union)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Isolation (Ultimate Mix)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/11_Isolation_(Ultimate_Mix)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Isolation",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/12_Isolation_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Isolation - [High Wycombe Town Hall Live 13 July 1979]",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/13_Isolation_-_[High_Wycombe_Town_Hall_Live_13_July_1979]_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Isolation (Live at Town Hall, High Wycombe, February 20, 1980)",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/14_Isolation_(Live_at_Town_Hall,_High_Wycombe,_February_20,_1980)_Joy_Division.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Isolation",
+      "artist": "Nothing's Carved In Stone",
+      "has_synced": false,
+      "path": "select/pl_01_Isolation_Nothing's_Carved_In_Stone.txt"
+    }
+  ]
+}
